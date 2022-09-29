@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@600&display=swap");
+
+body{
+  width: 100%;
+  height: 100vh;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container{
+  width: 540px;  
+}
